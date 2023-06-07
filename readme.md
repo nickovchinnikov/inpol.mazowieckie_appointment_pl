@@ -1,3 +1,5 @@
+# The script is not working anymore after Google ReCaptcha was added to the inpol.
+
 # Puppeteer script to make an appointment for https://inpol.mazowieckie.pl/login
 
 To run script:
